@@ -1,0 +1,72 @@
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe.config
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMain.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormJocuri.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.Properties.Resources.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.pdb
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.exe
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.pdb
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormInformatii.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTest.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormRelaxare.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory3.resources
+C:\Users\Andrei\Desktop\proiect\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTestulet.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csprojResolveAssemblyReference.cache
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormInformatii.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMain.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormJocuri.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory3.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormPuzzle.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormRelaxare.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTest.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTestulet.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.Properties.Resources.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.GenerateResource.Cache
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.CoreCompileInputs.cache
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.exe
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.pdb
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe.config
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.pdb
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe.config
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.pdb
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csprojResolveAssemblyReference.cache
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormInformatii.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMain.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormJocuri.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory3.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormPuzzle.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormRelaxare.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTest.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTestulet.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.Properties.Resources.resources
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.GenerateResource.Cache
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.CoreCompileInputs.cache
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.exe
+C:\Users\elev\Downloads\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.pdb
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormInformatii.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMain.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormJocuri.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormMemory3.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormPuzzle.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormRelaxare.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTest.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormTestulet.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.exe
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita Alexandru.pdb
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe.config
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.exe
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\bin\Debug\Tenita Alexandru.pdb
+C:\Users\Andrei\Desktop\Tenita Alexandru\Tenita Alexandru\obj\Debug\Tenita_Alexandru.FormLabirint.resources
